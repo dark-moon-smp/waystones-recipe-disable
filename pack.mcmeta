@@ -1,0 +1,6 @@
+{
+	"pack":{
+		"pack_format":8,
+		"description":"Removes all recipes from the Waystones mod (except for warp plates)"
+	}
+}
